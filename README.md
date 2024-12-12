@@ -16,7 +16,9 @@ Repositorio centralizado para documentación técnica y de usuario de EFIGAS.
 
 ## 🙏 Agradecimientos
 - Santiago Pineda Quintero
-- 
+- Alejandra Muñoz
+- Diego Aguirre
+- Manuel Fernando
 
 
 ¡Gracias por dejarnos ser parte de este viaje! 🚀
